@@ -16,9 +16,8 @@ Raspberry Pi 4, Model B.
 ## Libraries: 
 - RPI.GPIO: Built-in Raspberry OS
 - pigipio: Installation guide: https://abyz.me.uk/rpi/pigpio/download.html
+- Adafruit_CircuitPython_VL53L0X (I2C): https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X/tree/main
+- MinIMU-9-v5 (I2C): https://github.com/DarkSparkAg/MinIMU-9-v5/blob/master/MinIMU_v5_pi.py
 
 Applied IMU Module:
 ![MinIMU-9 v6 Gyro, Accelerometer, and Compass (LSM6DSO and LIS3MDL Carrier)](https://www.pololu.com/product/2862)
-
-The code to interface was derived from:
-![DarkSparkAg](https://github.com/DarkSparkAg/MinIMU-9-v5/blob/master/MinIMU_v5_pi.py)
