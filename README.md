@@ -1,7 +1,7 @@
 # Micromouse_v1
 Posting Demo Code for Micromouse IEEE Contest
 
-![RObo Front]![MIcromouse](https://github.com/user-attachments/assets/d62d70af-1167-4f30-883f-a4336616065a)
+![RObot Platfrom]![MIcromouse](https://github.com/user-attachments/assets/d62d70af-1167-4f30-883f-a4336616065a)
 
 # Prerequisites
 
