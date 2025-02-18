@@ -19,6 +19,6 @@ Raspberry Pi 4, Model B.
 - Adafruit_CircuitPython_VL53L0X (I2C): https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X/tree/main
 - MinIMU-9-v5 (I2C): https://github.com/DarkSparkAg/MinIMU-9-v5/blob/master/MinIMU_v5_pi.py
 
-## I2C setup: https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_I2C
+I2C setup: https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_I2C
 
 Applied IMU Module: https://www.pololu.com/product/2862
